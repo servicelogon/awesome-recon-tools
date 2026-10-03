@@ -56,6 +56,7 @@ Robust tools for gathering domain and network information.
 - [Whois.net](https://whois.net) - Provides WHOIS lookup, domain registration information, and domain availability searches.
 - [Wireshark](https://wireshark.org) - Network protocol analyzer for inspecting and troubleshooting network traffic.
 - [You Get Signal](https://yougetsignal.com) - Provides port testing, network location, visual traceroute, reverse IP lookup, and related network utilities.
+- [Zond](https://github.com/zond-rs/zond) - Network scanner that finds hosts, ports and services, and knows which CVEs your distro has already patched.
 
 ### Windows CLI
 
