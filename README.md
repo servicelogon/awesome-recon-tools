@@ -49,6 +49,7 @@ Robust tools for gathering domain and network information.
 - [Shodan](https://shodan.io) - Internet intelligence search engine for discovering internet-connected systems, services, and exposed devices.
 - [SpiderFoot](https://github.com/smicallef/spiderfoot) - Automated OSINT collection and attack-surface reconnaissance framework.
 - [Subfinder](https://github.com/projectdiscovery/subfinder) - Fast passive subdomain discovery tool from ProjectDiscovery.
+- [SubSniper](https://github.com/AmirDiaz/subsniper) - Zero-dependency subdomain takeover scanner combining passive enumeration, DNS triage, and 40+ takeover fingerprints in a single Python file.
 - [Traceroute NG](https://solarwinds.com/free-tools/traceroute-ng) - Continuously probes network paths, detects route changes, supports IPv4 and IPv6, and creates text log files.
 - [URL Fuzzer](https://pentest-tools.com/website-vulnerability-scanning/discover-hidden-directories-and-files#) - Scans websites for hidden files and directories.
 - [VisualRoute](http://www.visualroute.com) - Provides continuous tracerouting, reverse tracing, port probing, and route analysis.
