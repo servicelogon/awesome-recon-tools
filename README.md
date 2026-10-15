@@ -31,6 +31,7 @@ Robust tools for gathering domain and network information.
 - [ARIN Whois/RDAP](https://www.arin.net/resources/registry/whois/) - Retrieves information about IP number resources, organizations, and points of contact registered with ARIN.
 - [BuiltWith](https://builtwith.com) - Identifies technologies used by websites, including hosting, analytics, frameworks, and ecommerce platforms.
 - [Censys](https://censys.io) - Searches internet-wide datasets to discover hosts, services, certificates, and exposed infrastructure.
+- - [cl0q](https://cl0q.com) - Open search engine for domain research & OSINT — 44.1M domains indexed, free API tier.
 - [crt.sh](https://crt.sh) - Searches certificate transparency logs to discover domains and subdomains from certificate history.
 - [DataSploit](https://github.com/DataSploit/datasploit) - Performs automated OSINT on domains, email addresses, usernames, and phone numbers using multiple data sources.
 - [DNSDumpster](https://dnsdumpster.com) - Discovers hosts related to a domain and helps map an organization's external attack surface.
