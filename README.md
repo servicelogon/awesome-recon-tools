@@ -40,6 +40,7 @@ Robust tools for gathering domain and network information.
 - [GreyNoise](https://greynoise.io) - Provides context on internet background noise and scanners to help distinguish broad scanning from targeted activity.
 - [httpx](https://github.com/projectdiscovery/httpx) - Fast, multi-purpose HTTP probing toolkit for identifying live web services from discovered hosts.
 - [Informer](https://website.informer.com/) - Provides an aggregated view of publicly available information about a website.
+- [Karma.Domains](https://karma.domains) - Searches expired, auction, and backorder domains with Wayback Machine history, WHOIS, DNS, and domain age lookups for researching who held a domain and what it hosted.
 - [Maltego](https://maltego.com) - Open-source intelligence and graphical link-analysis platform for gathering and connecting investigative information.
 - [Netcraft](https://netcraft.com) - Provides site reports, DNS searches, hosting intelligence, and other internet reconnaissance tools.
 - [Nmap](https://nmap.org) - Network discovery and security auditing tool for host discovery, port scanning, and service detection.
