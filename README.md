@@ -53,6 +53,7 @@ Robust tools for gathering domain and network information.
 - [URL Fuzzer](https://pentest-tools.com/website-vulnerability-scanning/discover-hidden-directories-and-files#) - Scans websites for hidden files and directories.
 - [VisualRoute](http://www.visualroute.com) - Provides continuous tracerouting, reverse tracing, port probing, and route analysis.
 - [Wappalyzer](https://www.wappalyzer.com) - Identifies technologies and software stacks used by websites.
+- [Website Technology & Tech Stack Detector](https://apify.com/pennydata/website-tech-stack-detector) - Detects CMS, e-commerce platform, analytics, CDN and JavaScript frameworks for a list of URLs, with evidence from headers, meta tags and scripts.
 - [Whois.net](https://whois.net) - Provides WHOIS lookup, domain registration information, and domain availability searches.
 - [Wireshark](https://wireshark.org) - Network protocol analyzer for inspecting and troubleshooting network traffic.
 - [You Get Signal](https://yougetsignal.com) - Provides port testing, network location, visual traceroute, reverse IP lookup, and related network utilities.
