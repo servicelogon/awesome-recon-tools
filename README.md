@@ -88,6 +88,7 @@ Tools for gathering personal information, social-network information, and email-
 - [Have I Been Pwned](https://haveibeenpwned.com) - Checks email addresses and domains for exposure in known data breaches.
 - [Hunter.io](https://hunter.io) - Finds and verifies email addresses associated with a domain.
 - [Maigret](https://github.com/soxoj/maigret) - Username OSINT tool that checks thousands of sites for matching accounts and profiles.
+- [Opsis](https://useopsis.com) - Reverse email lookup service that checks 1000+ source modules for accounts linked to an email address, username, or domain.
 - [PeekYou](https://peekyou.com) - Searches publicly available information associated with people and online identities.
 - [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) - Independent X data API for search, follower export, and monitoring.
 
