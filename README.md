@@ -29,6 +29,7 @@ Robust tools for gathering domain and network information.
 
 - [Amass](https://github.com/owasp-amass/amass) - In-depth attack-surface mapping and asset discovery tool combining passive OSINT, active DNS, certificate transparency, and brute force.
 - [ARIN Whois/RDAP](https://www.arin.net/resources/registry/whois/) - Retrieves information about IP number resources, organizations, and points of contact registered with ARIN.
+- [BrandShield](https://brand-checker.appwrite.network/) - Free zero-signup domain and brand reconnaissance tool querying 78+ TLDs via live IANA RDAP alongside USPTO trademark and app store checks.
 - [BuiltWith](https://builtwith.com) - Identifies technologies used by websites, including hosting, analytics, frameworks, and ecommerce platforms.
 - [Censys](https://censys.io) - Searches internet-wide datasets to discover hosts, services, certificates, and exposed infrastructure.
 - [crt.sh](https://crt.sh) - Searches certificate transparency logs to discover domains and subdomains from certificate history.
