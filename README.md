@@ -44,6 +44,7 @@ Robust tools for gathering domain and network information.
 - [Netcraft](https://netcraft.com) - Provides site reports, DNS searches, hosting intelligence, and other internet reconnaissance tools.
 - [Nmap](https://nmap.org) - Network discovery and security auditing tool for host discovery, port scanning, and service detection.
 - [Nuclei](https://github.com/projectdiscovery/nuclei) - Template-based scanner for validating vulnerabilities and exposures discovered during reconnaissance.
+- [Postmaster of Puppets](https://postmasterofpuppets.com/) - Checks a domain's MX, SPF, DKIM and DMARC records and shows whether anyone can send email as the domain.
 - [Professional Toolset](https://network-tools.com) - Provides ping, traceroute, HTTP header inspection, and other network utilities.
 - [SecurityTrails](https://securitytrails.com) - Provides historical DNS, WHOIS, and passive DNS data for investigating infrastructure history.
 - [Shodan](https://shodan.io) - Internet intelligence search engine for discovering internet-connected systems, services, and exposed devices.
