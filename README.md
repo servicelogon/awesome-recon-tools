@@ -41,6 +41,7 @@ Robust tools for gathering domain and network information.
 - [httpx](https://github.com/projectdiscovery/httpx) - Fast, multi-purpose HTTP probing toolkit for identifying live web services from discovered hosts.
 - [Informer](https://website.informer.com/) - Provides an aggregated view of publicly available information about a website.
 - [Maltego](https://maltego.com) - Open-source intelligence and graphical link-analysis platform for gathering and connecting investigative information.
+- [MyIPScan Domain Intelligence Report](https://myipscan.net/tools/domain-intelligence-report/) - Summarizes a domain's DNS records, RDAP registration data, IP and ASN context, reverse DNS, CAA and DNSSEC on one page.
 - [Netcraft](https://netcraft.com) - Provides site reports, DNS searches, hosting intelligence, and other internet reconnaissance tools.
 - [Nmap](https://nmap.org) - Network discovery and security auditing tool for host discovery, port scanning, and service detection.
 - [Nuclei](https://github.com/projectdiscovery/nuclei) - Template-based scanner for validating vulnerabilities and exposures discovered during reconnaissance.
